@@ -86,4 +86,4 @@ Both containers are created by building. The database configuration needs to set
 
 https://hub.docker.com/_/mysql
 
-https://github.com/zoulimo/limo-docker.git
+
